@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+
+gem "bootstrap-switch-rails"
 gem 'devise'
 gem "therubyracer"
 gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
